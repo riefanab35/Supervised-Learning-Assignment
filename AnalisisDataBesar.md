@@ -1,7 +1,7 @@
 ---
 title: "Tugas Supervised Learning - Analisis Data Simulasi"
 author: "Riefan Abdul Hakim"
-date: "`r Sys.Date()`"
+date: "1 Oktober 2026"
 output: github_document
 ---
 
