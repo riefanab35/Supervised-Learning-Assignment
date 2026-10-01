@@ -1,7 +1,7 @@
 Komputasi - Supervised Learning - Analisis Data Simulasi Berjumlah Besar
 ================
 Riefan Abdul Hakim
-2026-10-01
+01 Oktober 2026
 
 ## Pendahuluan
 
